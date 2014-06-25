@@ -2,7 +2,7 @@
 About
 =====
 
-This is basic sample demontrating how to embed sqlite3 to c++ program.
+This is basic sample demonstrating how to embed sqlite3 to c++ program.
 
 
 Dependencies
